@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 
 - ![Example](./assets/chef.svg)
 -->
+
+![Example](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/chef.svg" />)
