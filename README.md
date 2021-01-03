@@ -1,18 +1,14 @@
-### Hi there 👋
+# Hello
 
-<!--
-**J0hn-B/J0hn-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In the daylight i help companies with their Cloud Native and Digital Transformation journey.
 
-Here are some ideas to get you started:
+Memorizing is not my cup of tea, i prefer code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
-- ![Example](./assets/chef.svg)
--->
+In the night i cook Rasberry Pi's, i grow kubernetes varietes everywhere(🙄) and i guard a herd of wild Gobots.
+
+- 🤔 No, not these gobots -->![photo](assets/gobots.jpg)
+
+- 😉 These Gobots -->
+![photo](assets/gobot1.jpg)
+![photo](assets/gobot2.jpg)
+![photo](assets/gobot3.jpg)
