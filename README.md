@@ -12,3 +12,5 @@ In the night i cook Rasberry Pi's, i grow kubernetes varietes everywhere(🙄) a
 ![photo](assets/gobot1.jpg)
 ![photo](assets/gobot2.jpg)
 ![photo](assets/gobot3.jpg)
+
+![Profile views](https://gpvc.arturio.dev/J0hn-B)
