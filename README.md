@@ -9,8 +9,9 @@ In the night i cook Rasberry Pi's, i grow kubernetes varietes everywhere(🙄) a
 - 🤔 No, not these gobots -->![photo](assets/gobots.jpg)
 
 - 😉 These Gobots -->
-![photo](assets/gobot1.jpg)
-![photo](assets/gobot2.jpg)
-![photo](assets/gobot3.jpg)
+  ![photo](assets/gobot1.jpg)
+  ![photo](assets/gobot2.jpg)
+  ![photo](assets/gobot3.jpg)
 
-
+...hmmm, i know... well, why don't you check the daily UK IT jobs then?  
+[UK IT Jobs recorder](https://github.com/J0hn-B/bash_scraper)
