@@ -13,6 +13,8 @@ In the night i cook Rasberry Pi's, i grow kubernetes varietes everywhere(🙄) a
   ![photo](assets/gobot2.jpg)
   ![photo](assets/gobot3.jpg)
 
-Hmmm, i know...  
-Well, why don't you check the daily UK IT jobs then?  
-[UK IT Jobs recorder](https://github.com/J0hn-B/bash_scraper)
+Hmmm, i know...
+
+Well, why don't you check the daily UK IT jobs then?
+
+[UK IT Jobs Recorder](https://github.com/J0hn-B/bash_scraper)
