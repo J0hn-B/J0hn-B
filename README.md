@@ -13,8 +13,6 @@ In the night i cook Rasberry Pi's, i grow kubernetes varietes everywhere(🙄) a
   ![photo](assets/gobot2.jpg)
   ![photo](assets/gobot3.jpg)
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
 Hmmm, i know...
 
 Well, why don't you check the daily UK IT jobs then?
