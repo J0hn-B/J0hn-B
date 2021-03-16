@@ -19,4 +19,10 @@ Well, why don't you check the daily UK IT jobs then?
 
 [UK IT Jobs Recorder](https://github.com/J0hn-B/bash_scraper)
 
-![Profile](./index.html)
+ ```js
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+```
+
+```js
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="john-benakis-1486b185"><a class="LI-simple-link" href='https://uk.linkedin.com/in/john-benakis-1486b185?trk=profile-badge'>John Benakis</a></div>
+```
