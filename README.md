@@ -1,10 +1,11 @@
 # Hello
 
-In the daylight i help companies with their Cloud Native and Digital Transformation journey.
+In the daylight i help companies with their Cloud Native and Digital Transformation journey,
+translating complexity into scalable solutions.
 
-Memorizing is not my cup of tea, i prefer code.
+I value the power and beauty of code over memorization.
 
-In the night i cook Rasberry Pi's, i grow kubernetes varietes everywhere(🙄) and i guard a herd of wild Gobots.
+When the night falls, you'll find me cooking up Raspberry Pi projects, cultivating diverse Kubernetes environments and safeguarding a horde of wild Gobots.
 
 - 🤔 No, not these gobots -->![photo](assets/gobots.jpg)
 
