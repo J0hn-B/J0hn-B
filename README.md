@@ -1,6 +1,7 @@
 # Hello
 
 In the daylight i help companies with their Cloud Native and Digital Transformation journey,
+
 translating complexity into scalable solutions.
 
 I value the power and beauty of code over memorization.
