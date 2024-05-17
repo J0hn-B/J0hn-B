@@ -5,25 +5,7 @@
 # Parameters
 source coffee.sh
 
-# Set USER_MEMORY variable for J0hn-B
-USER_MEMORY=""
-
-# Check user memory
-if [[ -z "$USER_MEMORY" ]]; then
-
-    # If empty
-    echo "User memory is empty"
-
-    # Add your code here 
-    kubectl apply -f Tux.yml
-    echo "🐧 ➕ ☁️"
-  
-else
-    # If not empty
-    echo "ERROR: Memory Overflow (Code: HOPE-404)"
-    echo "Memorizing and manual processes found. Hope detected (not recognized as a valid strategy)"
-    exit 1
-fi
+code .
 
 ```
 ---
